@@ -36,7 +36,7 @@
 <hr>
 <br/>
 
-![Madhavi's github stats](https://github-readme-stats.vercel.app/api?username=madhavi-kumari&show_icons=true&theme=radical)
+![Vaibhawi's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhawik1&show_icons=true&theme=radical)
 <br/>
 <hr>
 <h2> Languages and Tools:</h2></br> 

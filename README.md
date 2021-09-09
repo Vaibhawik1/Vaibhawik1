@@ -41,7 +41,7 @@
 <hr>
 <h2> Languages and Tools:</h2></br> 
 <a>
-  <img align="left" img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+  <img align="left" img height="40" src="https://www.azul.com/wp-content/uploads/2021/03/technologies-tomcat.png"></a>
 
 <a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>

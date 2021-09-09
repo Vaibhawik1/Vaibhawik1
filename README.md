@@ -50,7 +50,7 @@
   <img align="left" img height="40" src="https://www.nicepng.com/png/full/321-3210484_atlassian-bitbucket-logo.png"></a>
 
 <a>
-  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></a>
+  <img align="left" img height="40" src="https://brandslogos.com/wp-content/uploads/thumbs/gradle-logo-vector-1.svg"></a>
 
 <a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></a>

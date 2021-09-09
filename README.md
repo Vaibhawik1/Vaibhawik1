@@ -44,7 +44,7 @@
   <img align="left" img height="50" src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png"></a>
 
 <a>
-  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
+  <img align="left" img height="40" src="https://www.nicepng.com/png/detail/611-6119100_soapui-soapui-logo-png.png"></a>
 
 <a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>

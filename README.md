@@ -53,7 +53,7 @@
   <img align="left" img height="40" src="https://brandslogos.com/wp-content/uploads/thumbs/gradle-logo-vector-1.svg"></a>
 
 <a>
-  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></a>
+  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png"></a>
 <a>
   <img align="left" img height="40" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"></a>
 

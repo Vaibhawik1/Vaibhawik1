@@ -47,7 +47,7 @@
   <img align="left" img height="40" src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/10/05105601/SoapUI%402x.png"></a>
 
 <a>
-  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
+  <img align="left" img height="40" src="https://download.logo.wine/logo/Bitbucket/Bitbucket-Logo.wine.png"></a>
 
 <a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></a>

@@ -41,7 +41,7 @@
 <hr>
 <h2> Languages and Tools:</h2></br> 
 <a>
-  <img align="left" img height="40" src="https://www.azul.com/wp-content/uploads/2021/03/technologies-tomcat.png"></a>
+  <img align="left" img height="50" src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png"></a>
 
 <a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>

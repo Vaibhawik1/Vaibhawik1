@@ -55,7 +55,7 @@
 <a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></a>
 <a>
-  <img align="left" img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F836262224546608370%2F&psig=AOvVaw3SkysXzaWRaOjg9wZMjEH6&ust=1631304424257000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjXlvXY8vICFQAAAAAdAAAAABAD"></a>
+  <img align="left" img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></a>
 
 
 

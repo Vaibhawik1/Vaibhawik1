@@ -55,7 +55,7 @@
 <a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></a>
 <a>
-  <img align="left" img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></a>
+  <img align="left" img height="70" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></a>
 
 
 
